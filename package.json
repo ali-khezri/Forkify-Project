@@ -1,0 +1,23 @@
+{
+  "name": "forkify-project",
+  "version": "1.0.0",
+  "description": "Recipe Application",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Ali Khezri",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.16.0",
+    "parcel": "^2.16.0",
+    "sass": "^1.90.0"
+  },
+  "dependencies": {
+    "core-js": "^3.45.0",
+    "fracty": "^1.0.12",
+    "img": "^3.0.3",
+    "regenerator-runtime": "^0.14.1",
+    "src": "^1.0.0"
+  }
+}
