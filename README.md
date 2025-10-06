@@ -50,9 +50,10 @@ src/
 ## ⚙️ Installation & Setup
 
 1. **Clone the repository**
+   
    ```bash
    git clone https://github.com/<your-username>/Forkify-Project.git
-````
+   ```
 
 2. **Install dependencies**
 
